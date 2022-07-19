@@ -1,6 +1,6 @@
 {
   "name": "clogz",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Better way to console.log! Use logz(string) instead of console.log(string) , and get beautiful logs that are easy to find and read with background colours and font names",
   "main": "index.js",
   "type": "module",
