@@ -1,0 +1,33 @@
+{
+  "name": "clogz",
+  "version": "1.0.0",
+  "description": "Better way to console.log! Use logz(string) instead of console.log(string) , and get beautiful logs that are easy to find and read with background colours and font names",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/99daycoder/logz.git"
+  },
+  "keywords": [
+    "Console.log",
+    "console",
+    "log",
+    "console",
+    "log",
+    "with",
+    "colour",
+    "colour",
+    "log",
+    "better",
+    "console.log"
+  ],
+  "author": "99daycoder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/99daycoder/logz/issues"
+  },
+  "homepage": "https://github.com/99daycoder/logz#readme"
+}
